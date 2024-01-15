@@ -6,7 +6,6 @@ export default function App() {
     return (
         <>
             <Navbar></Navbar>
-
             <Row></Row>
         </>
     )
